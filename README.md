@@ -1,4 +1,3 @@
-````markdown
 # Migration Sakila
 
 Migration de la base de données Sakila depuis PostgreSQL vers Redis et MongoDB avec Node.js.
